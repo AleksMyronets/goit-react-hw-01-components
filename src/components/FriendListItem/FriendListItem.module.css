@@ -1,0 +1,25 @@
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px;
+    width: 200px;
+    height: 90px;
+    margin-bottom: 20px;
+    box-shadow: -13px 11px 15px 5px rgba(105, 182, 93, 0.37);
+}
+
+.status {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.true {
+    background-color: green;
+}
+
+.false {
+    background-color: red;
+}
