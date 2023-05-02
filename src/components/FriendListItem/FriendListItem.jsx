@@ -11,7 +11,7 @@ export const FriendListItem = ({ isOnline, avatar, name }) => {
             className="avatar"
             src={avatar}
             alt={name}
-            width="50"
+            width="48"
           />
           <p className="name">{name}</p>
         </li>)
