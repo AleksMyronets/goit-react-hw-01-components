@@ -10,7 +10,7 @@ export const Statistics = ({ title, stats }) => {
           <li
             key={stats.id}
             className={css.item}
-            // className={css.style}
+
           >
             <span className={css.label}> {stats.label}</span>
             <span className="percentage"> {stats.percentage}%</span>

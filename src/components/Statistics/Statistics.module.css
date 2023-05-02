@@ -1,10 +1,10 @@
 .statistics {
-    background-color: beige;
+    background-color: rgb(202, 202, 19);
     margin: auto;
     margin-top: 50px;
-    width: 300px;
+    width: 350px;
     height: 135px;
-    box-shadow: -11px 10px 12px 3px rgba(34, 60, 80, 0.37);
+    box-shadow: -11px 10px 12px 3px rgba(46, 144, 219, 0.37);
 }
 
 .title {
@@ -30,12 +30,8 @@
     font-size: 20px;
 }
 
-/* .style {
-    background-color: blue;
-} */
-
 .label {
-    margin-bottom: 8px;
+    margin-bottom: 12px;
     font-weight: 600;
 }
 
